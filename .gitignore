@@ -1,0 +1,14 @@
+
+shopify_scraper.egg-info/
+setests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+*.sqlite*
+
