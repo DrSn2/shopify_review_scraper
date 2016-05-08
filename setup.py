@@ -16,4 +16,5 @@ setup(name='shopify-scraper',
       	"mechanize",
       	"lxml",
       ],
+      keywords = ['shopify', 'scraper', 'review'], # arbitrary keywords
       zip_safe=False)

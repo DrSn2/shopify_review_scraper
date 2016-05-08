@@ -11,4 +11,6 @@ setests.xml
 .pydevproject
 
 *.sqlite*
+dist/
+.pypirc
 
